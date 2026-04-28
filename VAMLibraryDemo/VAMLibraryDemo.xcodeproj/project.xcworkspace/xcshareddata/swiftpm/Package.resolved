@@ -1,0 +1,33 @@
+{
+  "originHash" : "6e67277f6b77c01f2a765b0694a3922cce9d4d60e7285b8d0c1c38d5a7253dd4",
+  "pins" : [
+    {
+      "identity" : "texttospeech",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/VAMLibrary/TextToSpeech.git",
+      "state" : {
+        "revision" : "d2ae878e7bd1ed250aca1ffa5ba63eb79db2752c",
+        "version" : "1.0.3"
+      }
+    },
+    {
+      "identity" : "vamlibrary",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/VAMLibrary/VAMLibrary.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "c3ff249fb6a5e82e14c08e12a3271b600a1df69e"
+      }
+    },
+    {
+      "identity" : "vibrationlibrary",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/VAMLibrary/VibrationLibrary.git",
+      "state" : {
+        "revision" : "0c91753ea66046edd25f39bd8822d73e7312ed38",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
